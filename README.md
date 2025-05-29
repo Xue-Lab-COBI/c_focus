@@ -1,6 +1,6 @@
 # Compressive Fourier-Domain Intensity Coupling (C-FOCUS) enables near-millimeter deep imaging in the intact mouse brain in vivo
 
-This is the repository that contains source code for the [C-FOCUS](https://cubhe.github.io/c_focus/).
+This is the repository that contains source code for the [C-FOCUS](https://xue-lab-cobi.github.io/c_focus/).
 
 If you find Nerfies useful for your work please cite:
 ```
